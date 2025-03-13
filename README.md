@@ -60,7 +60,6 @@
 ### 💬 Let's Connect!
 
 💌 Reach me at **hi@arnav.blog**  
-💬 DM me on **[Twitter/X](https://twitter.com/Arnav12S)**  
 💼 Connect on **[LinkedIn](https://www.linkedin.com/in/arnav-sudhansh)**
 
 🚀 **Keep Building, Keep Learning!** 🚀
