@@ -57,13 +57,6 @@
 
 ---
 
-### 🎯 Fun & Rare Stats
-
-- ⏳ **Longest GitHub Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arnav12S&theme=radical)
-- 🎖 **GitHub Achievements:** ![GitHub Achievements](https://github-profile-achievements.vercel.app/api?username=Arnav12S&theme=radical)
-
----
-
 ### 💬 Let's Connect!
 
 💌 Reach me at **hi@arnav.blog**  
