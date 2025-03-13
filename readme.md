@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-arnav.blog-blue?style=flat-square&logo=google-chrome)](https://arnav.blog)
 [![GitHub](https://img.shields.io/badge/GitHub-Arnav12S-black?style=flat-square&logo=github)](https://github.com/Arnav12S)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arnav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arnav-sudhansh)
 
 ---
 
